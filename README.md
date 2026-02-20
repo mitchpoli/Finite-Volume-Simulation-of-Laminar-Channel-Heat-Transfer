@@ -75,3 +75,7 @@ The solver is fully developed in MATLAB using a structured mesh.
 - Sparse matrix assembly
 - Finite Volume Method
 - Structured grid implementation
+
+## Report
+
+A complete report is present in the Finite_Volume_Simulation_of_Laminar_Channel_Heat_Transfer.pdf file.
